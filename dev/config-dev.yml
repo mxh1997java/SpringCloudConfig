@@ -1,0 +1,6 @@
+name：
+  maxinha
+spring：
+  application:
+    name:
+      eureka-client-service-consumer
